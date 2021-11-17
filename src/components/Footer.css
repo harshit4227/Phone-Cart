@@ -1,0 +1,10 @@
+.footer{
+  text-align: center;
+  background-image: url(http://cvitanic.info/wp-content/uploads/2016/05/Footer-background.jpg);
+  color: white;
+}
+.footer a{
+  font-size: 28px;
+  color:violet;
+  padding:18px
+}
